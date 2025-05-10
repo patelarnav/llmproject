@@ -1,0 +1,19 @@
+# Environment
+.env
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Large notebook outputs or models
+*.ipynb
+model.ipynb
+new_model.ipynb
+
+# Virtual envs / dependencies
+venv/
+env/
+
